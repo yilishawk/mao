@@ -11,10 +11,10 @@
   "quickSearch": 0,
   "filterable": 1
 },
-{"key":"csp_appysv2_","name":"独播社(M2)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://35ys.cc/api.php/v1.vod"},
+{"key":"csp_appysv2_饭团影视","name":"饭团影视(M2)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://television.wkfile.com/api.php/app/"},
 {"key":"csp_appysv2_天空影视V2","name":"天空影视V2(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://www.tkys.tv/xgapp.php/v2/"},
-{"key":"csp_appysv2_饭团影视","name":"饭团影视(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://television.wkfile.com/api.php/app/"},
-{"key":"csp_appysv2_益达影院","name":"益达影院(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://luobu.yss6080.com/mogai_api.php/v1.vod"},    
+{"key":"csp_appysv2_益达影院V2","name":"益达影院V2(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://luobu.yss6080.com/mogai_api.php/v1.vod"},  
+{"key":"csp_appysv2_独播社","name":"独播社(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://35ys.cc/api.php/v1.vod"},
 {"key":"csp_appysv2_嘀哩嘀哩","name":"嘀哩嘀哩(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://dilidili.la/api.php/app/"},
 {
   "key": "csp_Auete",
@@ -684,15 +684,4 @@
     "cms.qdwght.com"
   ]
 }
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
+
