@@ -154,7 +154,8 @@ Channel V,http://iptv.tvfix.org/hls/channelv.m3u8#
 星空卫视,http://iptv.tvfix.org/hls/startv.m3u8#
 Star Sports,http://iptv.tvfix.org/hls/starsports.m3u8#
 凤凰资讯,http://223.110.235.4/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8#
-凤凰中文,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzw#
+凤凰资讯,http://iptv.tvfix.org/hls/fhzx.m3u8#
+凤凰中文,http://iptv.tvfix.org/hls/fhzw.m3u8#
 凤凰中文,http://223.110.236.10/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8#
 凤凰香港,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8$JS1080P#
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8#
@@ -164,6 +165,7 @@ Star Sports,http://iptv.tvfix.org/hls/starsports.m3u8#
 澳门卫星,http://61.244.22.4/ch3/ch3.live/playelist.m3u8#
 澳门综艺,http://103.233.191.133:1935/ch6/hd_ch6.live/playlist.m3u8#
 澳门体育,http://103.233.191.132:1935/ch4/sport_ch4.live/playlist.m3u8
+凯凯
 #凤凰中文尾#
 
 #TVB头#
