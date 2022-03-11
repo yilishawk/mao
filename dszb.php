@@ -2,7 +2,7 @@
     <fenlei>央视高清-央视咪咕-央视移动-凤凰中文-央视移动-TVB-卫视移动</fenlei>
 
 #央视高清头#
-CCTV1,http://39.135.138.60:18890/PLTV/88888910/224/3221225618/index.m3u8#
+CCTV1,http://183.214.164.90/hlsliveali-cdn.ysp.cctv.cn/ysp/2000210103.m3u8#
 CCTV1,http://39.135.138.59:18890/PLTV/88888910/224/3221225642/index.m3u8#
 CCTV2,http://39.135.138.60:18890/PLTV/88888910/224/3221225619/index.m3u8#
 CCTV2,http://39.135.138.60:18890/PLTV/88888910/224/3221225643/index.m3u8#
@@ -154,6 +154,7 @@ Channel V,http://iptv.tvfix.org/hls/channelv.m3u8#
 星空卫视,http://iptv.tvfix.org/hls/startv.m3u8#
 Star Sports,http://iptv.tvfix.org/hls/starsports.m3u8#
 凤凰资讯,http://223.110.235.4/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8#
+凤凰中文,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzw#
 凤凰中文,http://223.110.236.10/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8#
 凤凰香港,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8$JS1080P#
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8#
