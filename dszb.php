@@ -149,7 +149,7 @@ CCTV中学生,http://39.136.66.39/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/32
 #央视移动尾#
 
 #凤凰中文头#
-http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8#
+凤凰中文http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8#
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8#
 凤凰香港,http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
 #凤凰中文尾#
