@@ -153,7 +153,7 @@ CCTV中学生,http://39.136.66.39/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/32
 Channel V,http://iptv.tvfix.org/hls/channelv.m3u8#
 星空卫视,http://iptv.tvfix.org/hls/startv.m3u8#
 Star Sports,http://iptv.tvfix.org/hls/starsports.m3u8#
-凤凰资讯,http://223.110.235.4/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8#
+凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8#
 凤凰资讯,http://iptv.tvfix.org/hls/fhzx.m3u8#
 凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv2.m3u8#
 凤凰香港,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8$JS1080P#
