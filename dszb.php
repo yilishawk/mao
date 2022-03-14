@@ -249,6 +249,9 @@ TBS,https://tbs.mov3.co/hls/tbs.m3u8
 云南卫视,http://117.148.179.141/PLTV/88888888/224/3221231499/index.m3u8#
 河南卫视,http://117.148.179.144/PLTV/88888888/224/3221231514/index.m3u8#
 陕西卫视,http://117.148.179.156/PLTV/88888888/224/3221231408/index.m3u8#
+陕西都市青春,http://stream.snrtv.com/sxbc-2-euPXY9.m3u8#
+陕西卫视,http://stream.snrtv.com/sxbc-star-DHOU37.m3u8#
+陕西公共,http://stream.snrtv.com/sxbc-5-bvFGLY.m3u8#
 吉林卫视,http://117.148.179.164/PLTV/88888888/224/3221231472/index.m3u8#
 广西卫视,http://117.148.179.164/PLTV/88888888/224/3221231600/index.m3u8#
 内蒙古卫视,http://117.148.179.151/PLTV/88888888/224/3221231478/index.m3u8#
