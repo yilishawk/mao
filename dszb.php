@@ -155,7 +155,7 @@ Channel V,http://iptv.tvfix.org/hls/channelv.m3u8#
 Star Sports,http://iptv.tvfix.org/hls/starsports.m3u8#
 凤凰资讯,http://223.110.235.4/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8#
 凤凰资讯,http://iptv.tvfix.org/hls/fhzx.m3u8#
-凤凰中文,http://ws.matchupstream.tuboshu.com/live/20200114fenghuang2.flv#
+凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv2.m3u8#
 凤凰香港,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8$JS1080P#
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8#
 澳视澳门,http://103.233.191.133:1935/ch1/ch1.live/playlist.m3u8#
