@@ -1,5 +1,5 @@
 {
-    <fenlei>央视高清-央视咪咕-央视移动-凤凰中文-央视移动-TVB-卫视移动</fenlei>
+    <fenlei>央视高清-央视咪咕-央视移动-凤凰中文-TVB-卫视高清-卫视移动</fenlei>
 
 #央视高清头#
 CCTV1,http://183.214.164.90/hlsliveali-cdn.ysp.cctv.cn/ysp/2000210103.m3u8#
