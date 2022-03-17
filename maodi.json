@@ -9,14 +9,14 @@
 
 {
     "sites": [{
-            "key": "csp_appysv2_饭团影视",
-            "name": "饭团影视〔Z〕",
+            "key": "csp_appysv2_嘀哩嘀哩",
+            "name": "嘀哩嘀哩〔Z〕",
             "type": 3,
             "api": "csp_AppYs",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "http://television.wkfile.com/api.php/app/"
+            "ext": "http://dilidili.la/api.php/app/"
         },
         {
             "key": "csp_xpath_lezhutv",
@@ -610,7 +610,7 @@
         {
             "name": "解析03",
             "type": 1,
-            "url": "http://23.224.174.74:5577/home/api?type=ys&uid=19722&key=aghknrsvxCDEGNRSUZ&url="
+            "url": "https://z1.m1907.cn/?jx="
         },
         {
             "name": "解析04",
