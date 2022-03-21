@@ -67,7 +67,7 @@
     "key": "huajiaozy",
     "id": 8,
     "name": "花椒",
-    "api": https://apihjzy.com/api.php",
+    "api": "https://apihjzy.com/api.php",
     "download": "",
     "isActive": 1,
     "group": "福利"
