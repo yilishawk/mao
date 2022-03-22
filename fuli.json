@@ -207,4 +207,58 @@
     "isActive": 1,
     "group": "福利"
   }
+    {
+    "key": "msnii",
+    "id": 25,
+    "name": "美少女",
+    "api": "https://www.msnii.com/api/xml.php",
+    "download": "",
+    "isActive": 1,
+    "group": "福利"
+  },
+  {
+    "key": "xrbsp",
+    "id": 26,
+    "name": "饮水机",
+    "api": "https://www.xrbsp.com/api/xml.php",
+    "download": "",
+    "isActive": 1,
+    "group": "福利"
+  },
+  {
+    "key": "gdlsp",
+    "id": 27,
+    "name": "香奶",
+    "api": "https://www.gdlsp.com/api/xml.php",
+    "download": "",
+    "isActive": 1,
+    "group": "福利"
+  },
+  {
+    "key": "kxgav",
+    "id": 28,
+    "name": "白嫖",
+    "api": "https://www.kxgav.com/api/xml.php",
+    "download": "",
+    "isActive": 1,
+    "group": "福利"
+  },
+  {
+    "key": "afasu",
+    "id": 29,
+    "name": "小师妹",
+    "api": "https://www.afasu.com/api/xml.php",
+    "download": "",
+    "isActive": 1,
+    "group": "福利"
+  },
+  {
+    "id": 30,
+    "key": "pgxdy",
+    "name": "黄AV",
+    "api": "https://www.pgxdy.com/api/xml.php",
+    "download": "",
+    "isActive": 1,
+    "group": "福利"
+  }
 ]
