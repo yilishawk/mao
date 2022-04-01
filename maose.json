@@ -132,32 +132,26 @@
  "name": "8090", 
  "type": 0, "api": "http://zy.yilans.net:8090/api.php/provide/vod/at/xml/",
  "playUrl":"https://analysis.yikan.one/analysis/player/?uid=8&my=fjkmoqFJLORTVZ1359&url="}, 
- "categories": [ "动漫","综艺","国产剧", "港台剧", "日韩剧", "欧美剧", "泰国剧", "综艺片", "动漫片", "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "纪录片" ]
-  },
 {
 "key": "速播",
  "name": "subo", 
  "type": 0, "api": "https://api.suboapi.com/api.php/provide/vod/at/xml/",
- "playUrl":"https://player.suboapi.com/jx/?url="},        
- "categories": [ "国产精品","日本无码","日本有码", "欧美极品", "中文字幕", "强奸乱伦", "制服诱惑", "变态另类", "三级伦理", "成人动漫", "日韩综合", "自拍偷拍", "熟女人妻", "恐怖片", "剧情片", "战争片" ]},
+ "playUrl":"https://player.suboapi.com/jx/?url="},
 {     
 "key": "爱播",
  "name": "aibo", 
  "type": 0, "api": "https://cj.apiabzy.com/api.php/provide/vod/at/xml/",
  "playUrl":"https://player.aibozyplayer.com/m3u8/?url="},       
- "categories": [ "国产精品","日本无码","日本有码", "欧美极品", "中文字幕", "强奸乱伦", "制服诱惑", "变态另类", "三级伦理", "成人动漫", "日韩综合", "自拍偷拍", "熟女人妻" ]},
  { 
 "key": "探探",
  "name": "ttzy", 
  "type": 0, "api": "https://apittzy.com/api.php/provide/vod/at/xml/",
  "playUrl":"https://jiexi.ttbfp1.com/m3u8/?url="},       
- "categories": [ "国产精品","日本无码","日本有码", "欧美极品", "中文字幕", "强奸乱伦", "制服诱惑", "变态另类", "三级伦理", "成人动漫", "日韩综合", "自拍偷拍", "熟女人妻" ]},
     { 
 "key": "523资源",
  "name": "523zy", 
  "type": 0, "api": "https://caiji.523zyw.com/inc/seacmsapi.php",
  "playUrl":"https://api.523zyw.com/?url="},       
- "categories": [ "国产精品","日本无码","日本有码", "欧美极品", "中文字幕", "强奸乱伦", "制服诱惑", "变态另类", "三级伦理", "成人动漫", "日韩综合", "自拍偷拍", "熟女人妻" ]},
  {
       "key": "资源采集",
       "name": "资源",
