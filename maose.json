@@ -122,26 +122,26 @@
     "filterable": 1
   },
 {
-      "key": "人人迷",
-      "name": "人人迷",
+      "key": "subo",
+      "name": "subo",
       "type": 1,
-      "api": "https://kuu.renrenmi.cc/api.php/provide/vod/?ac=list",
-      "playUrl": "https://jx.renrenmi.cc/?url=",
+      "api": "https://api.suboapi.com/api.php/provide/vod/at/xml",
+      "playUrl": "https://player.suboapi.com/jx/?url=",
       "categories": [
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "剧情片",
-        "战争片",
-        "恐怖片",
-        "国产剧",
-        "港台剧",
-        "日韩剧",
-        "欧美剧",
+        "国产精品",
+        "日本无码",
+        "日本有码",
+        "欧美极品",
+        "中文字幕",
+        "强奸乱伦",
+        "制服诱惑",
+        "变态另类",
+        "三级伦理",
+        "成人动漫",
+        "日韩综合",
         "其他剧",
-        "综艺",
-        "动漫"
+        "自拍偷拍",
+        "熟女人妻"
       ]
     },
 {
