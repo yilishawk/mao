@@ -25,24 +25,24 @@
     ]
   },
   {
-    "key": "Ukuzy",
+    "key": "ukuapi",
     "name": "U酷",
     "type": 0,
     "api": "https://api.ukuapi.com/api.php/provide/vod/at/xml/",
     "playUrl": "https://api.ukubf.com/m3u8/?url="
   },
   {
-    "key": "jpys_spider",
-    "name": "极品影视",
-    "type": 2,
-    "api": "Scrawl2",
+    "key": "baidou",
+    "name": "北斗",
+    "type": 0,
+    "api": "https://player.bdxzym3u8.com/dplayer/?url=",
     "playUrl": ""
   },
   {
-    "key": "mgys_spider",
-    "name": "暮光影视",
-    "type": 2,
-    "api": "Scrawl3",
+    "key": "sdzyapi",
+    "name": "闪电",
+    "type": 0,
+    "api": "https://sdzyapi.com/api.php/provide/vod/at/xml/",
     "playUrl": ""
   },
   {
@@ -50,7 +50,7 @@
     "name": "片库网",
     "type": 0,
     "api": "https://pianku.wang/api.php/provide/vod/at/xml/",
-    "playUrl": "",
+    "playUrl": "https://www.newsaas.cn/jx/?url=",
     "categories": [
     "综艺",
     "动漫",
@@ -68,11 +68,11 @@
     ]
   },
   {
-    "key": "乐多资源",
-    "name": "乐多资源",
+    "key": "taopianapi",
+    "name": "淘片",
     "type": 0,
-    "api": "http://www.leduozy.com/inc/api.php",
-    "playUrl": "https://api.leduotv.com/wp-api/ifr.php?isDp=1&vid=",
+    "api": "https://taopianapi.com/home/cjapi/as/mc10/vod/xml/",
+    "playUrl": "",
     "categories": [
     "综艺",
     "动作片",
@@ -83,29 +83,22 @@
     "剧情片",
     "战争片",
     "国产剧",
-    "港剧",
-    "日剧",
+    "香港剧",
+    "日本剧",
     "欧美剧",
-    "台剧",
-    "韩剧",
+    "台湾剧",
+    "韩国剧",
     "其他动漫",
     "海外剧",
-    "纪录片",
-    "国产动漫",
-    "日本动漫",
-    "欧美动漫",
-    "动画电影",
-    "篮球",
-    "足球",
-    "网球"
+    "泰国剧"
     ]
   },
   {
-    "key": "穿梭资源",
-    "name": "穿梭资源",
+    "key": "feisuzyapi",
+    "name": "飞速",
     "type": 0,
-    "api": "http://ok.888hyk.com/api.php/provide/vod/at/xml",
-    "playUrl": "",
+    "api": "https://www.feisuzyapi.com/api.php/provide/vod/at/xml",
+    "playUrl": "https://www.feisuplayer.com/m3u8/?url=",
     "categories": [
     "动作片",
     "喜剧片",
@@ -114,7 +107,7 @@
     "恐怖片",
     "犯罪片",
     "战争片",
-    "动画电影",
+    "动画片",
     "剧情片",
     "记录片",
     "国产剧",
@@ -135,15 +128,15 @@
     ]
   },
   {
-    "key": "安逸影院",
-    "name": "安逸影院",
+    "key": "pianku",
+    "name": "优酷资源",
     "type": 0,
-    "api": "http://dy.51isu.com:11801/api.php/provide/vod/at/xml",
+    "api": "https://pianku.wang/api.php/provide/vod/from/youku/at/xml/",
     "playUrl": "",
     "categories": [
     "综艺",
     "动漫",
-    "动作片",
+    "动作",
     "喜剧片",
     "爱情片",
     "科幻片",
@@ -153,8 +146,7 @@
     "国产剧",
     "港台剧",
     "日韩剧",
-    "欧美剧",
-    "福利"
+    "欧美剧"
     ]
   },
   {
