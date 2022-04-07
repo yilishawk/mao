@@ -25,11 +25,11 @@
     ]
   },
   {
-    "key": "afys_spider",
-    "name": "阿房影视",
-    "type": 2,
-    "api": "Scrawl1",
-    "playUrl": ""
+    "key": "Ukuzy",
+    "name": "U酷",
+    "type": 0,
+    "api": "https://api.ukuapi.com/api.php/provide/vod/at/xml/",
+    "playUrl": "https://api.ukubf.com/m3u8/?url="
   },
   {
     "key": "jpys_spider",
@@ -50,26 +50,21 @@
     "name": "片库网",
     "type": 0,
     "api": "https://pianku.wang/api.php/provide/vod/at/xml/",
-    "playUrl": "https://www.newsaas.cn/jx/?url=",
+    "playUrl": "",
     "categories": [
     "综艺",
     "动漫",
     "动作",
-    "喜剧",
-    "爱情",
-    "科幻",
-    "恐怖",
-    "剧情",
-    "战争",
-    "大陆剧",
+    "喜剧片",
+    "爱情片",
+    "科幻片",
+    "恐怖片",
+    "剧情片",
+    "战争片",
+    "国产剧",
     "港台剧",
     "日韩剧",
-    "欧美剧",
-    "纪录",
-    "海外剧",
-    "蓝光电影",
-    "蓝光电视剧",
-    "蓝光动漫"
+    "欧美剧"
     ]
   },
   {
