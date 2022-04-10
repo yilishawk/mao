@@ -46,6 +46,69 @@
     "playUrl": ""
   },
   {
+    "key": "3ketv",
+    "name": "小蜻蜓",
+    "type": 0,
+    "api": "http://3ketv.com/api.php/provide/vod/at/xml/",
+    "playUrl": ""
+  },
+  {
+    "key": "rrzyw",
+    "name": "人人资源",
+    "type": 0,
+    "api": "https://www.rrzyw.cc/api.php/provide/vod/at/xml/",
+    "playUrl": ""
+  },
+  {
+    "key": "qilinzyz",
+    "name": "麒麟资源",
+    "type": 0,
+    "api": "http://www.qilinzyz.com/api.php/provide/vod/at/xml/",
+    "playUrl": ""
+  },
+  {
+    "key": "lehootv",
+    "name": "乐活资源",
+    "type": 0,
+    "api": "https://lehootv.com/api.php/provide/vod/at/xml/",
+    "playUrl": ""
+  },
+  {
+    "key": "apibdzy",
+    "name": "百度资源2",
+    "type": 0,
+    "api": "https://cj.apibdzy.com/inc/api.php",
+    "playUrl": ""
+  },
+  {
+    "key": "wuzy9",
+    "name": "无尽资源",
+    "type": 0,
+    "api": "https://wuzy9.com/api.php/provide/vod/at/xml/",
+    "playUrl": ""
+  },
+  {
+    "key": "hdmys1",
+    "name": "嗨多咪影视",
+    "type": 0,
+    "api": "http://hdmys1.com/api.php/provide/vod/at/xml/",
+    "playUrl": ""
+  },
+  {
+    "key": "apibdzy",
+    "name": "百度资源2",
+    "type": 0,
+    "api": "https://cj.apibdzy.com/inc/api.php",
+    "playUrl": ""
+  },
+  {
+    "key": "wuzy9",
+    "name": "无尽资源",
+    "type": 0,
+    "api": "https://wuzy9.com/api.php/provide/vod/at/xml/",
+    "playUrl": ""
+  },
+  {
     "key": "pianku",
     "name": "片库网",
     "type": 0,
@@ -150,7 +213,7 @@
     ]
   },
   {
-    "key": "2A资源站",
+    "key": "xiaoqingt",
     "name": "2A资源站",
     "type": 1,
     "api": "http://zy.zcocc.com/api.php/provide/vod/",
