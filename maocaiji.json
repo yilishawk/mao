@@ -964,15 +964,19 @@
   "parses": [
   {
     "name": "蓝光视讯",
-    "url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=1931000&key=gktuvyzABEORSYZ135&url="
+    "url": "http://47.100.138.210:91/home/api?type=ys&uid=4476440&key=eghkvwxyFHORVX3478&url="
   },
   {
     "name": "纯净解析",
     "url": "https://z1.m1907.cn/?jx="
   },
   {
-    "name": "高速接口1",
-    "url": "https://jsap.attakids.com/?url="
+    "name": "爱奇艺优酷",
+    "url": "https://api.okjx.cc:3389/jx.php?url="
+  },
+  {
+    "name": "自建云端",
+    "url": "https://sb.5gseo.net/?url="
   },
   {
     "name": "B站解析1",
