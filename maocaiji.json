@@ -95,17 +95,17 @@
     "playUrl": ""
   },
   {
-    "key": "apibdzy",
-    "name": "百度资源2",
+    "key": "hwh",
+    "name": "灯塔资源",
     "type": 0,
-    "api": "https://cj.apibdzy.com/inc/api.php",
+    "api": "http://vip.hwh.ink/api.php/provide/vod/at/xml/",
     "playUrl": ""
   },
   {
-    "key": "wuzy9",
-    "name": "无尽资源",
+    "key": "bxyy5",
+    "name": "白熊资源",
     "type": 0,
-    "api": "https://wuzy9.com/api.php/provide/vod/at/xml/",
+    "api": "https://www.bxyy5.com/api.php/provide/vod/at/xml/",
     "playUrl": ""
   },
   {
