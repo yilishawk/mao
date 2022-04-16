@@ -185,7 +185,7 @@
     {"name":"麻瓜视频","type":1,"url":"https://kuba.renrenmi.cc:2266/api/?key=a2bSwx5iAGx1g2qn4h&url=","ext":{"flag":["renrenmi"]}},
     {"name":"零刻影院","type":1,"url":"http://ys.ling00.cn/json/?url=","ext":{"flag":["CL4K"]}},
     {"name":"300看世界","type":1,"url":"https://languangyingshiziyuan.1080zy.top/longteng.php/?url=","ext":{"flag":["ltnb"]}},
-    {"name":"粉象视界","type":1,"url":"http://47.100.138.210:91/home/api?type=ys&uid=4476440&key=eghkvwxyFHORVX3478&url=","ext":{"flag":["mgtv","芒果","renrenmi","youku","优酷","qiyi","爱奇艺","奇艺"]}},
+    {"name":"粉象视界","type":1,"url":"https://json.5lp.net/json.php?url=","ext":{"flag":["mgtv","芒果","renrenmi","youku","优酷","qiyi","爱奇艺","奇艺"]}},
     {"name":"爱酷影视6","type":1,"url":"https://jb.vjiangbei.com/home/api?type=ys&uid=646808&key=gklpqrtwyDIJKMP467&url=","ext":{"flag":["qq","腾讯","letv","乐视","youku","优酷"]}},
     {"name":"益达影院6","type":1,"url":"https://jb.vjiangbei.com/home/api?type=ys&uid=281459&key=cfnoprCDJKLNPQTY34&url=","ext":{"flag":["ltnb","ziqie","qq","腾讯","youku","优酷","qiyi","爱奇艺","奇艺","mgtv","芒果","letv","乐视"]}},
     {"name":"思乐影视1","type":1,"url":"https://jb.vjiangbei.com/home/api?type=ys&uid=2534396&key=ejovwzABDKTUXY1357&url=","ext":{"flag":["mgtv","芒果","qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷"]}},
