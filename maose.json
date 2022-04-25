@@ -305,9 +305,6 @@
     "name": "M3U8",
     "url": "https://jx.m3u8.tv/jiexi/?url="
   },
-    "name": "蓝光视讯",
-    "url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=1931000&key=gktuvyzABEORSYZ135&url="
-  },
   {
     "name": "纯净解析",
     "url": "https://jx.300ys.xyz/json/m3u8.php/?url="
