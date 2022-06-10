@@ -38,7 +38,7 @@
   "bfshifouercijiequ": "0",
   "bfjiequqian": "空",
   "bfjiequhou": "空",
-  "bfjiequshuzuqian": "class=\"stui-content__playlist",
+  "bfjiequshuzuqian": "class=\"stui-vodlist__media col-pd clearfix\"",
   "bfjiequshuzuhou": "</ul>",
   "zhuangtaiqian": "class=\"data\"",
   "zhuangtaihou": "</p>",
