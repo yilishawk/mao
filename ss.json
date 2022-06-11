@@ -19,6 +19,16 @@
       "filterable": 1
     },
     {
+      "key": "csp_biubiu_lulu",
+      "name": "lulu",
+      "type": 3,
+      "api": "csp_XBiubiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://yilishawk.github.io/mao/lulu.json"
+    },
+    {
       "key": "csp_biubiu_蚂蚁",
       "name": "蚂蚁",
       "type": 3,
