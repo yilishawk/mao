@@ -2,7 +2,7 @@
 {
   "name": "蚂蚁",
   "url": "www.mayiyingshi.com",
-  "User": "空",
+  "User": "User-Agent:Dart/2.14 (dart:io)",
   "shouye": "1",
   "fenlei": "电影$/type/1-#连续剧$/type/2-#综艺$/type/3-#动漫$/type/4-#国产$/vodshow/2-",
     "houzhui": ".html",
