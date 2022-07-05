@@ -154,6 +154,7 @@
       "name": "奶插",
       "type": 1,
       "api": "https://caiji.naichaapi.com/inc/apijson_vod.php",
+      "playUrl": "parse:妹妹",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -163,6 +164,7 @@
       "name": "点点",
       "type": 0,
       "api": "https://xx55zyapi.com/home/cjapi/ascf/mc/vod/xml",
+      "playUrl": "parse:妹妹",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -172,6 +174,7 @@
       "name": "小姐姐",
       "type": 0,
       "api": "https://xjjzyapi.com/home/cjapi/askl/mc/vod/xml/m3u8",
+      "playUrl": "parse:妹妹",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -181,6 +184,7 @@
       "name": "屌丝",
       "type": 0,
       "api": "https://sdszyapi.com/home/cjapi/asbb/sea/vod/xml",
+      "playUrl": "parse:妹妹",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -190,6 +194,7 @@
       "name": "色窝",
       "type": 1,
       "api": "https://sewozyapi.com/api.php/provide/vod/",
+      "playUrl": "parse:妹妹",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -199,6 +204,7 @@
       "name": "佳丽",
       "type": 1,
       "api": "http://www.jializyzapi.com/api.php/provide/vod/",
+      "playUrl": "parse:妹妹",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -208,6 +214,7 @@
       "name": "小湿妹",
       "type": 0,
       "api": "https://www.afasu.com/api/xml.php",
+      "playUrl": "parse:妹妹",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -217,6 +224,7 @@
       "name": "香奶儿",
       "type": 0,
       "api": "https://www.gdlsp.com/api/xml.php",
+      "playUrl": "parse:妹妹",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -226,6 +234,7 @@
       "name": "鲍鱼",
       "type": 0,
       "api": "http://caiji26.com/home/cjapi/p0g8/mc/vod/xml",
+      "playUrl": "parse:妹妹",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -235,6 +244,7 @@
       "name": "咪咪",
       "type": 0,
       "api": "http://www.caiji25.com/home/cjapi/p0as/mc/vod/xml",
+      "playUrl": "parse:妹妹",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -244,6 +254,7 @@
       "name": "青青草",
       "type": 0,
       "api": "https://www.caiji05.com/home/cjapi/cfda/mc/vod/xml",
+      "playUrl": "parse:妹妹",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -253,6 +264,7 @@
       "name": "酷伦",
       "type": 1,
       "api": "https://api.kudian70.com/api.php/provide/vod/",
+      "playUrl": "parse:妹妹",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -262,6 +274,7 @@
       "name": "环亚",
       "type": 0,
       "api": "http://wmcj8.com/inc/sapi.php",
+      "playUrl": "parse:妹妹",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -271,6 +284,7 @@
       "name": "花椒",
       "type": 1,
       "api": "https://apihjzy.com/api.php/provide/vod/",
+      "playUrl": "parse:妹妹",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -280,6 +294,7 @@
       "name": "523",
       "type": 0,
       "api": "https://caiji.523zyw.com/inc/seacmsapi.php",
+      "playUrl": "parse:妹妹",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -289,6 +304,7 @@
       "name": "探探",
       "type": 1,
       "api": "https://apittzy.com/api.php/provide/vod/?ac=list",
+      "playUrl": "parse:妹妹",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -298,6 +314,7 @@
       "name": "字幕网资源",
       "type": 0,
       "api": "http://zmcj88.com/sapi?ac=videolist",
+      "playUrl": "parse:妹妹",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -307,6 +324,7 @@
       "name": "乐鱼",
       "type": 0,
       "api": "https://www.leyuzyapi.com/inc/zyapimac.php",
+      "playUrl": "parse:妹妹",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -316,6 +334,7 @@
       "name": "酷豆",
       "type": 1,
       "api": "https://api.kdapi.info/api.php/provide/vod/",
+      "playUrl": "parse:妹妹",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -325,6 +344,7 @@
       "name": "大MM",
       "type": 0,
       "api": "https://www.dmmapi.com/home/cjapi/asd2c7/mc/vod/xml",
+      "playUrl": "parse:妹妹",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -334,6 +354,7 @@
       "name": "白嫖",
       "type": 0,
       "api": "https://www.kxgav.com/api/xml.php",
+      "playUrl": "parse:光速",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -343,6 +364,7 @@
       "name": "9号资源",
       "type": 0,
       "api": "http://fhapi9.com/api.php/provide/vod/at/xml/",
+      "playUrl": "parse:光速",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -352,6 +374,7 @@
       "name": "名优馆",
       "type": 0,
       "api": "http://mygzycj.com/sapi.php?ac=videolist",
+      "playUrl": "parse:光速",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -361,6 +384,7 @@
       "name": "4000",
       "type": 0,
       "api": "http://4000zy.com/inc/api.php",
+      "playUrl": "parse:光速",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -370,6 +394,7 @@
       "name": "哥哥妹妹",
       "type": 0,
       "api": "http://www.ggmmzy.com:9999/inc/xml",
+      "playUrl": "parse:光速",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
@@ -379,6 +404,7 @@
       "name": "AVZY",
       "type": 1,
       "api": "http://m.7777688.com/inc/apijson.php",
+      "playUrl": "parse:光速",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
@@ -388,6 +414,7 @@
       "name": "*富二代资源",
       "type": 0,
       "api": "http://f2dcj6.com/sapi/?ac=videolist",
+      "playUrl": "parse:光速",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -397,6 +424,7 @@
       "name": "*VV黄",
       "type": 0,
       "api": "https://vvdy.org/api.php/provide/vod/at/xml/",
+      "playUrl": "parse:光速",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -406,6 +434,7 @@
       "name": "色猫",
       "type": 0,
       "api": "https://api.maozyapi.com/inc/api.php/provide/vod/at/xml/",
+      "playUrl": "parse:光速",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -415,6 +444,7 @@
       "name": "07",
       "type": 0,
       "api": "https://www.caiji07.com/home/cjapi/cfcf/mc10/vod/xml",
+      "playUrl": "parse:光速",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -424,6 +454,7 @@
       "name": "博天堂",
       "type": 0,
       "api": "http://bttcj.com/inc/sapi.php",
+      "playUrl": "parse:光速",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -433,6 +464,7 @@
       "name": "大妹",
       "type": 0,
       "api": "https://www.dmmapi.com/home/cjapi/asd2c7/mc/vod/xml",
+      "playUrl": "parse:光速",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -442,6 +474,7 @@
       "name": "*白嫖资源",
       "type": 0,
       "api": "https://www.kxgav.com/api/xml.php",
+      "playUrl": "parse:光速",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -451,6 +484,7 @@
       "name": "*大地资源",
       "type": 0,
       "api": "https://dadiapi.com/api.php/",
+      "playUrl": "parse:光速",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -460,6 +494,7 @@
       "name": "*大地资源1",
       "type": 0,
       "api": "https://lbapi9.com/api.php/provide/vod/at/xml",
+      "playUrl": "parse:光速",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -469,6 +504,7 @@
       "name": "*酷豆资源",
       "type": 0,
       "api": "https://api.kdapi.info/api.php/provide/vod/at/xml/",
+      "playUrl": "parse:光速",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -478,6 +514,7 @@
       "name": "*色D丝资源",
       "type": 0,
       "api": "https://sdszyapi.com/home/cjapi/asbb/mc/vod/xml",
+      "playUrl": "parse:光速",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -496,6 +533,7 @@
       "name": "*色窝资源站",
       "type": 0,
       "api": "https://sewozyapi.com/api.php/provide/vod/at/xml",
+      "playUrl": "parse:光速",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -505,6 +543,7 @@
       "name": "*乐播资源",
       "type": 0,
       "api": "http://lbapiby.com/api.php/provide/vod/at/xml/",
+      "playUrl": "parse:光速",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -514,6 +553,7 @@
       "name": "*乐播资源1",
       "type": 0,
       "api": "https://lbapi9.com/api.php/provide/vod/at/xml",
+      "playUrl": "parse:光速",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -523,6 +563,7 @@
       "name": "*乐鱼资源",
       "type": 0,
       "api": "https://www.leyuzyapi.com/inc/api.php",
+      "playUrl": "parse:光速",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -532,6 +573,7 @@
       "name": "*乐鱼资源1",
       "type": 0,
       "api": "https://www.leyuzyapi.com/inc/zyapimac.php",
+      "playUrl": "parse:光速",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -541,6 +583,7 @@
       "name": "*花椒资源",
       "type": 0,
       "api": "https://apihjzy.com/api.php/provide/vod/at/xml",
+      "playUrl": "parse:光速",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -550,6 +593,7 @@
       "name": "*花椒资源1",
       "type": 0,
       "api": "https://cj.apihjzy.com/inc/api.php",
+      "playUrl": "parse:光速",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -559,6 +603,7 @@
       "name": "*老鸭资源站",
       "type": 0,
       "api": "https://api.apilyzy.com/api.php/provide/vod/at/xml",
+      "playUrl": "parse:光速",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -568,6 +613,7 @@
       "name": "*爱播资源站",
       "type": 0,
       "api": "https://api.apiabzy.com/api.php/provide/vod/at/xml/",
+      "playUrl": "parse:光速",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -577,6 +623,7 @@
       "name": "*奶茶资源",
       "type": 0,
       "api": "https://caiji.naichaapi.com/inc/api.php",
+      "playUrl": "parse:光速",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -586,6 +633,7 @@
       "name": "*万影色",
       "type": 0,
       "api": "https://wanying4.com/api.php/provide/vod/at/xml/",
+      "playUrl": "parse:光速",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -595,6 +643,7 @@
       "name": "*影库资源网",
       "type": 0,
       "api": "https://api.ykapi.net/api.php/provide/vod/at/xml/",
+      "playUrl": "parse:光速",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -604,6 +653,7 @@
       "name": "*酷豆资源0",
       "type": 0,
       "api": "https://api.kdapi.info/api.php/provide/vod/at/xml/",
+      "playUrl": "parse:光速",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -613,6 +663,7 @@
       "name": "*酷豆资源1",
       "type": 0,
       "api": "https://kudouzy.com/api.php/provide/vod/at/xml/",
+      "playUrl": "parse:光速",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -622,6 +673,7 @@
       "name": "*速播资源站",
       "type": 0,
       "api": "https://api.suboapi.com/api.php/provide/vod/at/xml/",
+      "playUrl": "parse:光速",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -631,6 +683,7 @@
       "name": "*浪潮资源",
       "type": 0,
       "api": "http://langchaozy6.com/api.php/provide/vod/at/xml/",
+      "playUrl": "parse:光速",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -640,6 +693,7 @@
       "name": "*010资源站",
       "type": 0,
       "api": "http://www.010aizy.com/API/seas.php",
+      "playUrl": "parse:光速",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -649,6 +703,7 @@
       "name": "*天噜啦资源",
       "type": 0,
       "api": "http://www.987caiji.com/api/max.php",
+      "playUrl": "parse:光速",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -658,6 +713,7 @@
       "name": "*亚洲CR在线资源站",
       "type": 0,
       "api": "https://www.caiji01.com/home/cjapi/cfd2/zp/vod/xml",
+      "playUrl": "parse:光速",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -667,6 +723,7 @@
       "name": "*一B道资源站",
       "type": 0,
       "api": "https://www.caiji03.com/home/cjapi/cfg8/zp/vod/xml",
+      "playUrl": "parse:光速",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -676,6 +733,7 @@
       "name": "*草L视频资源站",
       "type": 0,
       "api": "https://www.caiji02.com/home/cjapi/cfas/zp/vod/xml",
+      "playUrl": "parse:光速",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -685,6 +743,7 @@
       "name": "*麻D视频资源站",
       "type": 0,
       "api": "https://www.caiji04.com/home/cjapi/cfc7/zp/vod/xml",
+      "playUrl": "parse:光速",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -694,6 +753,7 @@
       "name": "*青青草视频资源站",
       "type": 0,
       "api": "https://www.caiji05.com/home/cjapi/cfda/zp/vod/xml",
+      "playUrl": "parse:光速",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -703,6 +763,7 @@
       "name": "*久久热在线资源站",
       "type": 0,
       "api": "https://www.caiji06.com/home/cjapi/cfbb/zp/vod/xml",
+      "playUrl": "parse:光速",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -712,6 +773,7 @@
       "name": "*日本A-V在线资源站",
       "type": 0,
       "api": "https://www.caiji07.com/home/cjapi/cfcf/zp/vod/xml",
+      "playUrl": "parse:光速",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -721,6 +783,7 @@
       "name": "*大香蕉视频资源站",
       "type": 0,
       "api": "https://www.caiji08.com/home/cjapi/cfkl/zp/vod/xml",
+      "playUrl": "parse:光速",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -730,6 +793,7 @@
       "name": "*快播盒子资源站",
       "type": 0,
       "api": "https://www.caiji09.com/home/cjapi/cfp0/zp/vod/xml",
+      "playUrl": "parse:光速",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -739,6 +803,7 @@
       "name": "*黄瓜TV资源站",
       "type": 0,
       "api": "https://www.caiji10.com/home/cjapi/cfs6/zp/vod/xml",
+      "playUrl": "parse:光速",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -748,6 +813,7 @@
       "name": "*点点娱乐资源站",
       "type": 0,
       "api": "https://xx55zyapi.com/home/cjapi/ascf/zp/vod/xml",
+      "playUrl": "parse:光速",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -757,6 +823,7 @@
       "name": "*精工厂资源站",
       "type": 0,
       "api": "https://jgczyapi.com/home/cjapi/kld2/zp/vod/xml",
+      "playUrl": "parse:光速",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -1086,6 +1153,11 @@
       "name": "妹妹",
       "type": 0,
       "url": "https://jx.mmkv.cn/m3u8.php?url="
+    },
+    {
+      "name": "光速",
+      "type": 0,
+      "url": "https://www.guangsujx.com/m3u8/?url="
     },
     {
       "name": "影库",
