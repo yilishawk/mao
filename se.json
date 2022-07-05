@@ -67,13 +67,14 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "\r\n{\r\n\"ua\": \"\",\r\n\"homeUrl\": \"https://www.2024xxj.com\",\r\n\"cateNode\": \"//div[contains(@class,'wrap mt10 nav')]/ul[contains(@class,'nav_menu')]/li/a[contains(@href,'vod-type')]\",\r\n\"cateName\": \"/text()\",\r\n\"cateId\": \"/@href\",\r\n\"cateIdR\": \"/?m=vod-type-(\\\\w+)\",\r\n\"cateManual\": {},\r\n\"homeVodNode\": \"//div[contains(@class,'box movie_list')]/ul/li/a\",\r\n\"homeVodName\": \"/h3/text()\",\r\n\"homeVodId\": \"/@href\",\r\n\"homeVodIdR\": \"\",\r\n\"homeVodImg\": \"/img/@src\",\r\n\"homeVodImgR\": \"\",\r\n\"cateUrl\": \"https://www.2024xxj.com/?m=vod-type-{cateId}-{catePg}.html\",\r\n\"cateVodNode\": \"//div[contains(@class,'box movie_list')]/ul/li/a\",\r\n\"cateVodName\": \"/h3/text()\",\r\n\"cateVodId\": \"/@href\",\r\n\"cateVodIdR\": \"\",\r\n\"cateVodImg\": \"/img/@src\",\r\n\"cateVodImgR\": \"\",\r\n\"dtUrl\": \"https://www.2024xxj.com/{vid}\",\r\n\"dtNode\": \"//body\",\r\n\"dtName\": \"//span[contains(@class,'cat_pos_l')]/h1/text()\",\r\n\"dtImg\": \"//div[contains(@class,'film_info clearfix')]/dl/dt/img/@src\",\r\n\"dtFromNode\": \"//div[contains(@class,'film_bar clearfix')]/strong/span\",\r\n\"dtFromName\": \"/text()\",\r\n\"dtUrlNode\": \"//div[contains(@class,'film_bar clearfix')]/ul\",\r\n\"dtUrlSubNode\": \"/li/a\",\r\n\"dtUrlId\": \"/@href\",\r\n\"dtUrlIdR\": \"\",\r\n\"dtUrlName\": \"/text()\", \r\n\"playUrl\": \"https://www.2024xxj.com/{playUrl}\",\r\n\"playUa\": \"\"\r\n}\r\n"
+      "ext": "{\r\n\"ua\": \"\",\r\n\"homeUrl\": \"https://www.2024xxj.com\",\r\n\"cateNode\": \"//div[contains(@class,'wrap mt10 nav')]/ul[contains(@class,'nav_menu')]/li/a[contains(@href,'vod-type')]\",\r\n\"cateName\": \"/text()\",\r\n\"cateId\": \"/@href\",\r\n\"cateIdR\": \"/?m=vod-type-(\\\\w+)\",\r\n\"cateManual\": {},\r\n\"homeVodNode\": \"//div[contains(@class,'box movie_list')]/ul/li/a\",\r\n\"homeVodName\": \"/h3/text()\",\r\n\"homeVodId\": \"/@href\",\r\n\"homeVodIdR\": \"\",\r\n\"homeVodImg\": \"/img/@src\",\r\n\"homeVodImgR\": \"\",\r\n\"cateUrl\": \"https://www.2024xxj.com/?m=vod-type-{cateId}-{catePg}.html\",\r\n\"cateVodNode\": \"//div[contains(@class,'box movie_list')]/ul/li/a\",\r\n\"cateVodName\": \"/h3/text()\",\r\n\"cateVodId\": \"/@href\",\r\n\"cateVodIdR\": \"\",\r\n\"cateVodImg\": \"/img/@src\",\r\n\"cateVodImgR\": \"\",\r\n\"dtUrl\": \"https://www.2024xxj.com/{vid}\",\r\n\"dtNode\": \"//body\",\r\n\"dtName\": \"//span[contains(@class,'cat_pos_l')]/h1/text()\",\r\n\"dtImg\": \"//div[contains(@class,'film_info clearfix')]/dl/dt/img/@src\",\r\n\"dtFromNode\": \"//div[contains(@class,'film_bar clearfix')]/strong/span\",\r\n\"dtFromName\": \"/text()\",\r\n\"dtUrlNode\": \"//div[contains(@class,'film_bar clearfix')]/ul\",\r\n\"dtUrlSubNode\": \"/li/a\",\r\n\"dtUrlId\": \"/@href\",\r\n\"dtUrlIdR\": \"\",\r\n\"dtUrlName\": \"/text()\", \r\n\"playUrl\": \"https://www.2024xxj.com/{playUrl}\",\r\n\"playUa\": \"\"\r\n}\r\n"
     },
     {
       "key": "91md",
       "name": "91md",
       "type": 1,
       "api": "https://91md.me/api.php/provide/vod/from/mdm3u8/",
+      "playUrl": "parse:妹妹",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -83,6 +84,7 @@
       "name": "影库资源",
       "type": 1,
       "api": "https://api.ykapi.net/api.php/provide/vod/from/ykm3u8/",
+      "playUrl": "parse:妹妹",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -92,6 +94,7 @@
       "name": "速播",
       "type": 1,
       "api": "https://api.suboapi.com/api.php/provide/vod/",
+      "playUrl": "parse:妹妹",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -101,6 +104,7 @@
       "name": "美少女",
       "type": 0,
       "api": "https://www.msnii.com/api/xml.php",
+      "playUrl": "parse:妹妹",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -110,6 +114,7 @@
       "name": "饮水机",
       "type": 0,
       "api": "https://www.xrbsp.com/api/xml.php",
+      "playUrl": "parse:妹妹",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -119,6 +124,7 @@
       "name": "老鸭1",
       "type": 1,
       "api": "https://api.apilyzy.com/api.php/provide/vod/?ac=list",
+      "playUrl": "parse:妹妹",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -128,6 +134,7 @@
       "name": "老鸭2",
       "type": 1,
       "api": "https://lbapi9.com/api.php/provide/vod/",
+      "playUrl": "parse:妹妹",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -137,6 +144,7 @@
       "name": "葡萄",
       "type": 1,
       "api": "https://api.putaozy.net/inc/apijson_vod.php",
+      "playUrl": "parse:妹妹",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
@@ -1074,6 +1082,11 @@
     }
   ],
   "parses": [
+    {
+      "name": "妹妹",
+      "type": 0,
+      "url": "https://jx.mmkv.cn/m3u8.php?url="
+    },
     {
       "name": "影库",
       "type": 0,
